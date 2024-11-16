@@ -34,7 +34,7 @@ This project follows a simple MVC (Model-View-Controller) pattern. The architect
 ### Clone the Repository
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/flutter-post-detail-app.git
+    git clone 
     ```
   
 ### Install Dependencies
