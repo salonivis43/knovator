@@ -34,7 +34,7 @@ This project follows a simple MVC (Model-View-Controller) pattern. The architect
 ### Clone the Repository
 1. Clone the repository to your local machine:
     ```bash
-    git clone 
+    git clone https://github.com/salonivis43/knovator.git
     ```
   
 ### Install Dependencies
